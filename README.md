@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project examining antibiotic resistance patterns in bacterial isolates collected from abattoir environments in Osun State, Nigeria.
 
-![Dashboard preview](dashboard/dashboard_preview.png)
+![Dashboard preview](dashboard_preview.png)
 
 ## Problem Statement
 
@@ -25,7 +25,7 @@ Antimicrobial resistance (AMR) is a major public health threat, and animal food 
 
 - **Power BI Desktop:** Power Query for cleaning, DAX for measures, visuals and dashboard design
 - **Excel:** breakpoint reference table
-- **SQL (SQL Server):** optional equivalent of the cleaning and classification steps (`sql/`)
+- 
 
 ## Method
 
@@ -83,7 +83,6 @@ These are suggestions for follow-up, not clinical guidance:
 ├── README.md
 ├── data/               # Dataset and breakpoints table
 ├── dashboard/          # .pbix file, PDF export and screenshot
-└── sql/                # Optional SQL scripts
 ```
 
 ## Author
