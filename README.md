@@ -14,7 +14,20 @@ Antimicrobial resistance (AMR) is a major public health threat, and animal food 
 
 ## Dataset
 
-- **Source:** Mendeley Data, DOI [10.17632/ccmrx8n7mk.1](https://data.mendeley.com/datasets/ccmrx8n7mk/1) (CC BY 4.0). *[Add authors and year from the Mendeley page.]*
+- **Source:** Mendeley Data, DOI [10.17632/ccmrx8n7mk.1](https://data.mendeley.com/datasets/ccmrx8n7mk/1) (CC BY 4.0). *Published: 3 July 2024
+|
+Version 1
+|
+DOI:
+10.17632/ccmrx8n7mk.1
+Contributors:
+Bukola Atobatele
+,
+
+Abimbola Owoseni
+,
+
+Segun Adebayo
 - **Size:** 274 isolates, 5 antibiotics (1,370 test readings)
 - **Towns:** Ede, Ife, Iwo, Osu
 - **Sampling sites:** Butcher table, concrete slab, soil
@@ -87,8 +100,9 @@ These are suggestions for follow-up, not clinical guidance:
 ## Author
 
 **Anthony**, Medical Laboratory Scientist transitioning into health data analytics.
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn]((https://www.linkedin.com/in/chisom-emma-echiegu-ab77023a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+) | [https://github.com/chisomechiegu1/osun-amr-analysis]
 
 ## Acknowledgements
 
-Dataset: Mendeley Data (CC BY 4.0). Please cite the original dataset when reusing this work.
+Dataset: Mendeley Data (CC BY 4.0). 
