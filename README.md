@@ -25,7 +25,6 @@ Antimicrobial resistance (AMR) is a major public health threat, and animal food 
 
 - **Power BI Desktop:** Power Query for cleaning, DAX for measures, visuals and dashboard design
 - **Excel:** breakpoint reference table
-- 
 
 ## Method
 
